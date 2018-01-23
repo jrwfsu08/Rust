@@ -1,0 +1,13 @@
+C:\Users\jrwfs\Rust\Rust\guessing_game\target\debug\deps\liblibc-75707dda0d52208d.rlib: C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\lib.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\macros.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\dox.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\windows.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\redox\mod.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\redox\net.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\cloudabi\mod.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\fuchsia\mod.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\unix\mod.rs
+
+C:\Users\jrwfs\Rust\Rust\guessing_game\target\debug\deps\libc-75707dda0d52208d.d: C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\lib.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\macros.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\dox.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\windows.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\redox\mod.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\redox\net.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\cloudabi\mod.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\fuchsia\mod.rs C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\unix\mod.rs
+
+C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\lib.rs:
+C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\macros.rs:
+C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\dox.rs:
+C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\windows.rs:
+C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\redox\mod.rs:
+C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\redox\net.rs:
+C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\cloudabi\mod.rs:
+C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\fuchsia\mod.rs:
+C:\Users\jrwfs\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.36\src\unix\mod.rs:
